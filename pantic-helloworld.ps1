@@ -1,2 +1,0 @@
-﻿Set-Content -Path &quot;$env:USERPROFILE\Desktop\eicar.com&quot; -NoNewline -Value
-&#39;X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*&#39;
